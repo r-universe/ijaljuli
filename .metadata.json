@@ -1,1 +1,6 @@
-[]
+[
+  {
+    "package": "metarep",
+    "oncran": true
+  }
+]
